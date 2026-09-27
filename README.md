@@ -1,2 +1,2 @@
-# admufrgs.github.io
-Currículo Administração UFRGS
+
+Currículos UFRGS
